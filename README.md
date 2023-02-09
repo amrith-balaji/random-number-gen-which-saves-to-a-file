@@ -1,4 +1,4 @@
-# randon-number-gen-which-saves-to-a-file
+# random-number-gen-which-saves-to-a-file
 it ganerates random numbers and saves it to a file 
 code:-
 ```
