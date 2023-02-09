@@ -33,3 +33,6 @@ int main() {
     return 0;
 }
 ```
+
+
+![image](https://user-images.githubusercontent.com/124582454/217833058-8dc1e8c6-fe4d-4128-abbb-bb0a542a7e03.png)
