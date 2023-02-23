@@ -36,3 +36,18 @@ int main() {
 
 
 ![image](https://user-images.githubusercontent.com/124582454/217833058-8dc1e8c6-fe4d-4128-abbb-bb0a542a7e03.png)
+
+
+
+to do it in shell script we :
+```
+#!/bin/bash
+num=1
+while [ $num -ne 4 ]
+do
+         echo $num  hello world
+         ./rand1
+         num=$(($num+1))
+done
+```
+
